@@ -11,7 +11,8 @@
     'category': 'Extra Tools',
     'depends': [
         'base',
-        'mrp'
+        'mrp',
+        'stock',
     ],
     'license': 'AGPL-3',
     'data': [

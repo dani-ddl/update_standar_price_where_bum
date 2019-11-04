@@ -57,6 +57,10 @@ class ResPartner(models.Model):
         logging.info("*******************|  pvp total  |*********************")
         logging.info(pvp_total)
 
+        #llamada al metodo write, para que reescriba los datos de coste y pvp en el articulo fabricado
+
+
+
         #llamada a la función button_mak_done de la clase padre
         resultado = super().button_mark_done()
 
