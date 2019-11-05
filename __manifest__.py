@@ -13,6 +13,7 @@
         'base',
         'mrp',
         'stock',
+        'product'
     ],
     'license': 'AGPL-3',
     'data': [
